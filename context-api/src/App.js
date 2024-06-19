@@ -1,5 +1,5 @@
 import "./App.css";
-import { ThemeProvider, useTheme } from "../../context-api/src/ThemeContext";
+import { ThemeProvider, useTheme } from "./ThemeContext";
 import Switch from "./Switch";
 
 const Title = ({ children }) => {
